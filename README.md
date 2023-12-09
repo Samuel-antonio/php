@@ -33,7 +33,7 @@ docker-compose up
 
 Isso iniciará o serviço PHP com Apache. O PHP estará acessível em `http://localhost:8080`.
 
-### Configurações Personalizadas
+# Configurações Personalizadas
 
 ### Arquivo `custom-php.ini`
 
