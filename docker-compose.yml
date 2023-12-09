@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  php-apache:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"  # Mapeando a porta 80 do container para a porta 8080 do host
+    volumes:
+      - ./custom-php.ini:/usr/local/etc/php/conf.d/custom-php.ini  # Montando o arquivo custom-php.ini
