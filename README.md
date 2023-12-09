@@ -43,10 +43,3 @@ O arquivo `custom-php.ini` contém configurações personalizadas do PHP. Certif
 
 Samuel Antônio
 Contato: samuel_neto17@hotmail.com
-
-## Licença
-
-Este projeto está licenciado sob a [Nome da Licença] - consulte o arquivo [LICENSE.md](LICENSE.md) para detalhes.
-
-
-Lembre-se de substituir "Samuel Antônio" e "samuel_neto17@hotmail.com" com suas informações reais. Além disso, inclua informações sobre a licença que você deseja aplicar ao seu projeto. Se precisar de uma licença específica, substitua "[Nome da Licença]" pelo nome da licença apropriada.
